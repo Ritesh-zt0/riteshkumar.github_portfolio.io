@@ -3,14 +3,16 @@
 This repository/website is used as a portfolio for storing different projects and case studies done by me, Ritesh Kumar
 
 Table of Contents:
-------
+---
 
 1. Case Studies.
 2. Projects.
 3. Resume.
-4. About Me
+4. About Me.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+1. Case Studies:
+                Several case studies will be done in near future using my recently acquired skills during my Google Data Analytics Course. First case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
+                Next case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual memebers alongside historical bike trip data to identify trends and launch products/strategies that will help in growth opportunities for the company.
 
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
