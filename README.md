@@ -11,13 +11,13 @@ Table of Contents:
 4. About Me.
 
  Case Studies:
-                Several case studies will be done in near future using my recently acquired skills during my Google Data Analytics Course. First case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
-                [Link](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac)
-                Next case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual memebers alongside historical bike trip data to identify trends and launch products/strategies that will help in growth opportunities for the company.
+              Several case studies will be done in near future using my recently acquired skills during my Google Data Analytics Course. First case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
+                [Link](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac).
+Next case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual memebers alongside historical bike trip data to identify trends and launch products/strategies that will help in growth opportunities for the company.
+                 [Link]
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+Projects:
+         
 
 * Unordered list can use asterisks
 - Or minuses
