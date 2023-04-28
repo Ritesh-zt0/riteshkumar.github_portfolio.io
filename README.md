@@ -26,7 +26,7 @@ In this section we will discuss the projects completed and currently undertaken 
 * Portfolio website: With this project, I tried to make a website for my portfolio which will contain all my projects, case studies, and about me. Still few things to fix and publish it.
 
 #### 3. Resume:
-[Download or preview the resume](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/Ritesh_Resume_2023.pdf)
+* [Download or preview the resume](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/Ritesh_Resume_2023.pdf)
 
 #### 4. Experience:
  * IOT Seminars: Attended multiple seminars on IOT during 2nd year of college, it was conducted by my class coordinator and we experienced how we dumb objects can be made smart using IOT.
