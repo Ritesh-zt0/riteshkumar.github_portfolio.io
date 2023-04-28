@@ -26,20 +26,15 @@ In this section we will discuss the projects completed and currently undertaken 
 * Portfolio website: With this project, I tried to make a website for my portfolio which will contain all my projects, case studies, and about me. Still few things to fix and publish it.
 
 #### 3. Resume:
-* [Download or preview the resume](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/Ritesh_Resume_2023.pdf)
+* [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/Ritesh_Resume_2023.pdf)
 
 #### 4. Experience:
- * IOT Seminars: Attended multiple seminars on IOT during 2nd year of college, it was conducted by my class coordinator and we experienced how we dumb objects can be made smart using IOT.
- * Raspberry Pi Seminars: Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
- * Attended Google Cloud Community Days 2023 in Mumbai: The event helped us (attendees) explore latest innovations, gain insights and knowledge about cloud computing as well as explore the latest trends and innovations in the cloud computing domain.
+* IOT Seminars: Attended multiple seminars on IOT during 2nd year of college, it was conducted by my class coordinator and we experienced how we dumb objects can be made smart using IOT.
+* Raspberry Pi Seminars: Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
+* Attended Google Cloud Community Days 2023 in Mumbai: The event held on 29th April helped us (attendees) explore latest innovations, gain insights and knowledge about cloud computing as well as explore the latest trends and innovations in the cloud computing domain.
 
-
-
-
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+#### 5. About Me:
+* Hello! My name is Ritesh Kumar, an engineering graduate from Pillai College of Engineering affiliated with University of Mumbai.
 
 [I'm an inline-style link](https://www.google.com)
 
