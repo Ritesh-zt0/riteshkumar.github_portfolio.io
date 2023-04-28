@@ -8,7 +8,8 @@ Table of Contents:
 1. Case Studies.
 2. Projects.
 3. Resume.
-4. About Me.
+4. Experience
+5. About Me.
 
  Case Studies:
               In this section we will discuss the case studies completed and currently undertaken by me. Several case studies will be done in near future using my recently acquired skills during my Google Data Analytics Course. First case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
@@ -17,9 +18,10 @@ Next case study in progress is regarding Cyclistic Bike-Share focusing on solvin
 [Case Study 2 Link]()
 
 Projects:
-         In this section we will discuss the projects completed and currently undertaken by me.
-          * My first project was building a medical app which contained all the common diseases with their basic home remedies PLUS emergency number of nearby doctors. I was given the part of researching about the different diseases, challenges, and understanding how the app will work.
-          * 
+In this section we will discuss the projects completed and currently undertaken by me.
+* Hackathon Medical App: Building a medical app which contained all the common diseases with their basic home remedies PLUS emergency number of nearby doctors. I was given the part of researching about the different diseases, challenges, and understanding how the app will work.
+* Rock, Paper, Scissor game: Developed this project using random.RandInt which will assign random integers from 1 to 3, which will assign 1 to Rock(r), assign 2 to Paper(p), and assign 3 to Scissor(s) to computers turn, then, it will compare both values and print whether its a tie, we won or lost.
+* 
 
 * Unordered list can use asterisks
 - Or minuses
