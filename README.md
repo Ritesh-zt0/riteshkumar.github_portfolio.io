@@ -14,9 +14,9 @@ Table of Contents:
 #### Case Studies:
 
 In this section we will discuss the case studies completed and currently undertaken by me. Several case studies will be done in near future using my recently acquired skills during my Google Data Analytics Course.
-* First case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
+* Bellabeat Case Study: This case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
 [Case Study 1 Link](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac).
-* Next case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual memebers alongside historical bike trip data to identify trends and launch products/strategies that will help in growth opportunities for the company.
+* Cyclistic Bike-Share Case Study: This case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual memebers alongside historical bike trip data to identify trends and launch products/strategies that will help in growth opportunities for the company.
 [Case Study 2 Link]()
 
 #### Projects:
@@ -25,7 +25,11 @@ In this section we will discuss the projects completed and currently undertaken 
 * Rock, Paper, Scissor game: Developed this project using random.RandInt which will assign random integers from 1 to 3, which will assign 1 to Rock(r), assign 2 to Paper(p), and assign 3 to Scissor(s) to computers turn. Then, it will compare both values and print whether its a tie, we won or lost. A similar version of this same project will be snake, water, gun game.
 * Final year project: This project topic was Secured Wireless Communication using RSA cryptography, we learnt about different types of cryptography and socket programming alongside databases.
 * Portfolio website: With this project, I tried to make a website for my portfolio which will contain all my projects, case studies, and about me. Still few things to fix and publish it.
-* 
+
+#### 3. Resume:
+[Download or preview the resume](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/Ritesh_Resume_2023.pdf)
+
+
 
 
 
