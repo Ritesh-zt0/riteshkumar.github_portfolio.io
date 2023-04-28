@@ -11,13 +11,15 @@ Table of Contents:
 4. About Me.
 
  Case Studies:
-              Several case studies will be done in near future using my recently acquired skills during my Google Data Analytics Course. First case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
-[Link](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac).
+              In this section we will discuss the case studies completed and currently undertaken by me. Several case studies will be done in near future using my recently acquired skills during my Google Data Analytics Course. First case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
+[Case Study 1 Link](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac).
 Next case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual memebers alongside historical bike trip data to identify trends and launch products/strategies that will help in growth opportunities for the company.
-                 [Link]
+[Case Study 2 Link]()
 
 Projects:
-         
+         In this section we will discuss the projects completed and currently undertaken by me.
+          * My first project was building a medical app which contained all the common diseases with their basic home remedies PLUS emergency number of nearby doctors. I was given the part of researching about the different diseases, challenges, and understanding how the app will work.
+          * 
 
 * Unordered list can use asterisks
 - Or minuses
