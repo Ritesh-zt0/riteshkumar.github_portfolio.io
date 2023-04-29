@@ -35,4 +35,4 @@ In this section we will discuss the projects completed and currently undertaken 
 
 #### 5. About Me:
 * Hello! My name is Ritesh Kumar, an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai. I'm an aspiring Data Analyst, recently completed my Google Data Analytics course from Coursera.
-* [Google Data Analytics Course Certification.](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/Ritesh%20Google%20Data%20Analytics%20Coursera%20Certification.pdf)
+ [Google Data Analytics Course Certification.](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/Ritesh%20Google%20Data%20Analytics%20Coursera%20Certification.pdf)
