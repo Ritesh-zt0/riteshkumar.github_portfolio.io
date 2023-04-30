@@ -4,9 +4,17 @@ This repository/website is used as a portfolio for storing different projects an
 * An aspiring Data analyst and an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai.
 I have recently completed my Google Data Analytics course from Coursera.
 
-💼 Language and Platforms:
+💼 Skills and Platforms:
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank SQL" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Language" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg" alt="Google Sheets" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="Kaggle" width="30" height="30" />
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 
 📨 Socials:
 
