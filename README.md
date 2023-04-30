@@ -1,5 +1,5 @@
 # Introduction
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Ritesh Kumar!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am Ritesh Kumar!
 This repository/website is used as a portfolio for storing different projects and case studies done by me, Ritesh Kumar.
 
 Table of Contents:
