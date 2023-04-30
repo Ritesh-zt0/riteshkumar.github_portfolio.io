@@ -23,6 +23,7 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 🤝 Connect with me:
 
 <a href="https://github.com/Ritesh-zt0"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <a href="https://www.hackerrank.com/kumarritra18extc/"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" alt="HackerRank" width="30" height="30" /> <a href="https://www.linkedin.com/in/ritesh-kumar-16774b200"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" /> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/E9D5PH3AFTQU"><img src="https://cdn.worldvectorlogo.com/logos/coursera.svg" alt="Coursera" width="30" height="30" /> 
+* 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ---
  
