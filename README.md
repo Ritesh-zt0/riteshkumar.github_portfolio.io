@@ -4,8 +4,11 @@ This repository/website is used as a portfolio for storing different projects an
 * An aspiring Data analyst and an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai.
 I have recently completed my Google Data Analytics course from Coursera.
 
+💼 Language and Platforms:
 
-🎴 Socials:
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank SQL" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Language" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg" alt="Google Sheets" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="Kaggle" width="30" height="30" />
+
+📨 Socials:
 
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/coursera.svg" alt="Coursera" width="30" height="30" /> 
 
