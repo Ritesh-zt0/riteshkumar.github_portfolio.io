@@ -1,7 +1,5 @@
-#theme: jekyll-theme-primer
-
 title: Portfolio
 description: Website built using Github Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-primer
