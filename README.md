@@ -32,7 +32,7 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 ## 🌱 I'm currently learning:
 * SQL in detail
 
-##  Table of Contents:
+## 📝 Table of Contents:
 1. Case Studies.
 2. Projects.
 3. Resume.
@@ -89,5 +89,6 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 * Raspberry Pi Seminars: Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
 
 * Attended Google Cloud Community Days 2023 in Mumbai: The event held on 29th April helped us (attendees) explore latest innovations, gain insights and knowledge about cloud computing as well as explore the latest trends and innovations in the cloud computing domain.
- 
+
+## 📈 Github Stats:
  ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-zt0&theme=auto&show_icons=true)
