@@ -1,8 +1,12 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am Ritesh Kumar!
----
-This repository/website is used as a portfolio for storing different projects and case studies done by me, Ritesh Kumar.
-* An aspiring Data analyst and an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai.
-I have recently completed my Google Data Analytics course from Coursera.
+<h2 align="center">
+Hi there, I'm <a href="https://www.hackerrank.com/kumarritra18extc" target="_blank" rel="noreferrer">Ritesh Kumar</a> 👋
+</h2>
+
+<h2 align="center">
+I'm an Aspiring Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
+</h2> 
+
+I love data visualizations and analyzing it to solve the problems. I am an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai. Recently completed my Google Data Analytics course from Coursera.
 
 💼 Skills and Platforms:
 
@@ -16,11 +20,19 @@ I have recently completed my Google Data Analytics course from Coursera.
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
-📨 Socials:
+🤝 Connect with me:
 
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/coursera.svg" alt="Coursera" width="30" height="30" /> 
+<a href="https://github.com/Ritesh-zt0"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <a href="https://www.hackerrank.com/kumarritra18extc/"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="30" height="30" /> <a href="https://www.linkedin.com/in/ritesh-kumar-16774b200"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" /> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/E9D5PH3AFTQU"><img src="https://cdn.worldvectorlogo.com/logos/coursera.svg" alt="Coursera" width="30" height="30" /> 
 
-### Table of Contents:
+---
+ 
+## 🔭 I'm currently working on:
+- Cyclistic Bike-sharing Case study
+ 
+## 🌱 I'm currently learning:
+* SQL in detail
+
+##  Table of Contents:
 1. Case Studies.
 2. Projects.
 3. Resume.
@@ -77,3 +89,5 @@ I have recently completed my Google Data Analytics course from Coursera.
 * Raspberry Pi Seminars: Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
 
 * Attended Google Cloud Community Days 2023 in Mumbai: The event held on 29th April helped us (attendees) explore latest innovations, gain insights and knowledge about cloud computing as well as explore the latest trends and innovations in the cloud computing domain.
+ 
+ ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-zt0&theme=dark&show_icons=true)
