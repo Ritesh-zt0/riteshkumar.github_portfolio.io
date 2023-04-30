@@ -1,12 +1,15 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am Ritesh Kumar!
+---
 This repository/website is used as a portfolio for storing different projects and case studies done by me, Ritesh Kumar.
 * An aspiring Data analyst and an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai.
 I have recently completed my Google Data Analytics course from Coursera.
 
 
-### Table of Contents:
----
+🎴 Socials:
 
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" /> <img src="https://cdn.worldvectorlogo.com/logos/coursera.svg" alt="Coursera" width="30" height="30" /> 
+
+### Table of Contents:
 1. Case Studies.
 2. Projects.
 3. Resume.
