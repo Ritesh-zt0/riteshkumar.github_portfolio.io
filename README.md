@@ -26,10 +26,10 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 * 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on:
-- Cyclistic Bike-sharing Case study
+- Cyclistic Bike-sharing Case study.
  
 ## 🌱 I'm currently learning:
-* SQL in detail
+* SQL in detail.
 
 ## 📝 Table of Contents:
 1. Case Studies.
