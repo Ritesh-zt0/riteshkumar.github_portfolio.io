@@ -35,8 +35,8 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 1. Case Studies.
 2. Projects.
 3. Resume.
-4. Experience.
-5. Certification.
+4. Certification.
+5. Experience.
 
 #### 1. Case Studies:
  > In this section we will discuss the case studies completed and currently undertaken by me. Several case studies will be done in near future using my recently acquired skills during my Google Data Analytics Course.
