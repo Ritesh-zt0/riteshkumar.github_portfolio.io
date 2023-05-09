@@ -91,3 +91,9 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 
 ## 📈 Github Stats:
  ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-zt0&theme=auto&show_icons=true)
+ 
+ <a href="https://www.hackerrank.com/kumarritra18extc?hr_r=1">HackerRank Profile</a>
+ " --- "
+ <a href="https://github.com/Ritesh-zt0">Github Profile</a>
+ " --- "
+ <a href="https://ritesh-zt0.github.io/riteshkumar.github_portfolio.io/">Portfolio Website</a>
