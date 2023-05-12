@@ -16,7 +16,7 @@ w = wdic["current"]["temp_c"]
 u = wdic["current"]["feelslike_c"]
 
 while 1:
-    speaker.Speak(f" The current weather in {city} is {w} degrees with actual feelike temperature of {u} degrees")
+    speaker.Speak(f" The current weather in {city} is {w} degrees with actual feels like temperature of {u} degrees")
 
 # Close the terminal for the output voice to stop.
 
