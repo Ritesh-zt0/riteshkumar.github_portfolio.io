@@ -17,7 +17,7 @@ w = wdic["current"]["temp_c"]
 while 1:
     speaker.Speak(f" The current weather in {city} is {w} degrees")
 
-# stop the py file for the output voice to stop
+# Close the terminal for the output voice to stop.
 
 
 
