@@ -71,7 +71,7 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 
 
 #### 3. Resume:
-* [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/Ritesh_Resume_2023.pdf)
+* [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Resume/Ritesh_Resume_2023.pdf)
 
 #### 4. Certifications:
  > This section contains all the certifications done by author.
