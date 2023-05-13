@@ -59,13 +59,13 @@ I love data visualization and analyzing it to solve the problems. I am an engine
  [Weather TTS.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Projects/weather_text_to_speech.py)
  
   2. Rock, Paper, Scissor game: Developed this project using random.RandInt which will assign random integers from 1 to 3, which will assign 1 to Rock(r), assign 2 to Paper(p), and assign 3 to Scissor(s) to computers turn. Then, it will compare both values and print whether its a tie, we won or lost. A similar version of this same project will be snake, water, gun game.
-[Rock, Paper, Scissor.](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/rock%2Cpaper%2Cscissor%20game.py)
+[Rock, Paper, Scissor.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Projects/rock%2Cpaper%2Cscissor%20game.py)
  
   3. Image Resizer: Used import cv2 to create a new image that is created by scaling the original image with different configurable parameters such as source, destination, and scale percent.
 [Image Resizer.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Projects/image_resizer.py)
 
 * Final Year B.E Project: The project topic was Secured Wireless Communication using RSA cryptography, we learnt about different types of cryptography and socket programming alongside databases.
-[B.E Final Project.](https://github.com/Ritesh-zt0/riteshkumar.github.io/blob/main/Final%20BE%20Blackbook.pdf)
+[B.E Final Project.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Projects/Final%20BE%20Blackbook.pdf)
  
 * Hackathon Medical App: Building a medical app which contained all the common diseases with their basic home remedies PLUS emergency number of nearby doctors. I was given the part of researching about the different diseases, challenges, and understanding how the app will work.
 
