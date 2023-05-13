@@ -98,7 +98,7 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 * Attended Google Cloud Community Days 2023 in Mumbai: The event held on 29th April helped us (attendees) explore latest innovations, gain insights and knowledge about cloud computing as well as explore the latest trends and innovations in the cloud computing domain.
 
 ## 📈 Github Stats:
- ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-zt0&theme=auto&show_icons=true)
+> ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-zt0&theme=auto&show_icons=true)
  
  <a href="https://www.hackerrank.com/kumarritra18extc?hr_r=1">HackerRank Profile</a>
  " --- "
