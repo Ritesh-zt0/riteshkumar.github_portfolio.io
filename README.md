@@ -45,7 +45,7 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 [Case Study 1 Link.](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac)
 
 * Cyclistic Bike-Share Case Study: This case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual memebers alongside historical bike trip data to identify trends and launch products/strategies that will help in growth opportunities for the company.
-[Working on it.]()
+[Cyclistic Bike-Share Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/cyclistic-bike-share-case-study-gda)
 
 
 #### 2. Projects:
