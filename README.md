@@ -78,16 +78,16 @@ I love data visualization and analyzing it to solve the problems. I am an engine
  > This section contains all the certifications done by author.
 
 * Google Data Analytics Certification: Completed this certification from Coursera and learned the 6 steps to solve any problem relating to data.
-[Google Data Analytics Course Certification.](https://www.coursera.org/account/accomplishments/specialization/certificate/E9D5PH3AFTQU)
+[GDA Certification.](https://www.coursera.org/account/accomplishments/specialization/certificate/E9D5PH3AFTQU)
 
-* Python (Basic) Certification: HackerRank certification of python.
-[Python HackerRank Certification.](https://www.hackerrank.com/certificates/7f1ce0ec6aba)
+* Python (Basic) HackerRank Certification: HackerRank certification of python.
+[Python Certification.](https://www.hackerrank.com/certificates/7f1ce0ec6aba)
 
-* Problem Solving (Basic) Certification: HackerRank certification of problem solving.
-[Problem Solving HackerRank Certification.](https://www.hackerrank.com/certificates/2c358870b981)
+* Problem Solving (Basic) HackerRank Certification: HackerRank certification of problem solving.
+[PS Certification.](https://www.hackerrank.com/certificates/2c358870b981)
 
-* SQL (Basic) Certification: HackerRank certification of SQL.
-[SQL HackerRank Certification.](https://www.hackerrank.com/certificates/5d33b416e53f)
+* SQL (Basic) HackerRank Certification: HackerRank certification of SQL.
+[SQL Certification.](https://www.hackerrank.com/certificates/5d33b416e53f)
 
 #### 5. Experience:
  > In this section I have mentioned all the seminars and events which I have attended.
