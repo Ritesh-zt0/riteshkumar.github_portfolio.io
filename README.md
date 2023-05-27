@@ -44,6 +44,9 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 
 * Bellabeat Case Study: This case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
 [Bellabeat Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac)
+ 
+* Stock Prices Prediction using LSTM: This case study/project is used to predict the stock prices using LSTM (long short term memory). LSTM is a variety of recurrent neural networks (RNNs) that are capable of learning long-term dependencies, especially in sequence prediction problems.
+[Stock Prices Prediction using LSTM Link.](https://www.kaggle.com/code/eta43riteshkumar/stock-prices-using-lstm/notebook)
 
 * Cyclistic Bike-Share Case Study: This case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual members alongside historical bike trip data to identify trends on how casual and annual members use the service alongside their preferred travelling days, duration of their travel, and which type of bikes are used, for growth opportunities of the company as well as how we can convert casual members to annual members.
 [Cyclistic Bike-Share Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/cyclistic-bike-share-case-study-gda)
