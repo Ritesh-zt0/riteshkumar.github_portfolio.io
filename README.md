@@ -52,7 +52,7 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 [Cyclistic Bike-Share Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/cyclistic-bike-share-case-study-gda)
 
 * UCL Winners Kit Manufacturer: In this case study, I tried to analyse why there are now only 2 kit manufacturer, i.e, Adidas and Nike, whose sponsored team win UEFA Champions League regularly, whereas 20-25 years ago different local kit manufacturers used to make kits of UCL winning sides.
-[UEFA CL Winners Kit Manufacturer]
+[UEFA CL Winners Kit Manufacturer]()
 
 
 #### 2. Projects:
