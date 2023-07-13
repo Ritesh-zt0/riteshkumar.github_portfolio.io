@@ -51,6 +51,9 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 * Cyclistic Bike-Share Case Study: This case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual members alongside historical bike trip data to identify trends on how casual and annual members use the service alongside their preferred travelling days, duration of their travel, and which type of bikes are used, for growth opportunities of the company as well as how we can convert casual members to annual members.
 [Cyclistic Bike-Share Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/cyclistic-bike-share-case-study-gda)
 
+* UCL Winners Kit Manufacturer: In this case study, I tried to analyse why there are now only 2 kit manufacturer, i.e, Adidas and Nike, whose sponsored team win UEFA Champions League regularly, whereas 20-25 years ago different local kit manufacturers used to make kits of UCL winning sides.
+[UEFA CL Winners Kit Manufacturer]
+
 
 #### 2. Projects:
  > In this section we will discuss the projects completed and currently undertaken by me.
