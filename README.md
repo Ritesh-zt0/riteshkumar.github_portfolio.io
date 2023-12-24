@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, I'm <a href="https:leetcode.com/rites_wor" target="_blank" rel="noreferrer">Ritesh Kumar</a> 👋
+Hi there, I'm <a href="leetcode.com/rites_wor" target="_blank" rel="noreferrer">Ritesh Kumar</a> 👋
 </h2>
 
 <h3 align="center">
