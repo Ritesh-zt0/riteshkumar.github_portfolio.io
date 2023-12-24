@@ -22,11 +22,12 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 
 🤝 Connect with me:
 
-<a href="https://github.com/Ritesh-zt0"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <a href="https://www.hackerrank.com/kumarritra18extc/"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" alt="HackerRank" width="30" height="30" /> <a href="https://www.linkedin.com/in/ritesh-kumar-16774b200"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" /> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/E9D5PH3AFTQU"><img src="https://cdn.worldvectorlogo.com/logos/coursera.svg" alt="Coursera" width="30" height="30" /> 
+<a href="https://github.com/Ritesh-zt0"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <a href="https://www.hackerrank.com/kumarritra18extc/"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" alt="HackerRank" width="30" height="30" /> <a href="https://www.linkedin.com/in/ritesh-kumar-16774b200"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" />
+
 * 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on:
-- Personal Case study.
+- Product management and Projects/Case Studies.
  
 ## 🌱 I'm currently learning:
 - SQL in detail.
@@ -78,13 +79,16 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 
 
 #### 3. Resume:
-* [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Resume/Ritesh_Resume_2023.pdf)
+* [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Resume/Ritesh_Resume_2023.01.pdf)
 
 #### 4. Certifications:
  > This section contains all the certifications done by author.
 
-* Google Data Analytics Certification: Completed this certification from Coursera and learned the 6 steps to solve any problem relating to data.
+* Google Data Analytics Certification: Completed this certification from Coursera.
 [GDA Certification.](https://www.coursera.org/account/accomplishments/specialization/certificate/E9D5PH3AFTQU)
+
+* Software Engineer Intern certification from HackerRank.
+[SE Intern Certification.](https://www.hackerrank.com/certificates/26a6c5d24316)
 
 * Python (Basic) HackerRank Certification: HackerRank certification of python.
 [Python Certification.](https://www.hackerrank.com/certificates/7f1ce0ec6aba)
@@ -110,5 +114,7 @@ I love data visualization and analyzing it to solve the problems. I am an engine
  <a href="https://www.hackerrank.com/kumarritra18extc?hr_r=1">HackerRank Profile</a>
  " --- "
  <a href="https://github.com/Ritesh-zt0">Github Profile</a>
+  " --- "
+ <a href="https://leetcode.com/rites_wor">Leetcode Profile</a>
  " --- "
  <a href="https://ritesh-zt0.github.io/riteshkumar.github_portfolio.io/">Portfolio Website</a>
