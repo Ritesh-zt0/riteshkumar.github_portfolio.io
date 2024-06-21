@@ -6,6 +6,8 @@ Hi there, I'm <a href="leetcode.com/rites_wor" target="_blank" rel="noreferrer">
 I'm an Aspiring Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
 </h3> 
 
+✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please do not hesitate to reach out to me.
+
 I love data visualization and analyzing it to solve the problems. I'm an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai.
 
 💼 Skills and Platforms:
@@ -19,12 +21,9 @@ I love data visualization and analyzing it to solve the problems. I'm an enginee
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-
 🤝 Connect with me:
 
 <a href="https://github.com/Ritesh-zt0"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <a href="https://www.hackerrank.com/kumarritra18extc/"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" alt="HackerRank" width="30" height="30" /> <a href="https://www.linkedin.com/in/ritesh-kumar-16774b200"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" />
-
-* 💬 If you have any question/feedback, please do not hesitate to reach out to me!
   
 ## 📝 Table of Contents:
 1. Projects and Case Studies.
