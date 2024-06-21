@@ -6,7 +6,7 @@ Hi there, I'm <a href="leetcode.com/rites_wor" target="_blank" rel="noreferrer">
 I'm an Aspiring Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
 </h3> 
 
-I love data visualization and analyzing it to solve the problems. I am an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai. Recently completed my Google Data Analytics course from Coursera.
+I love data visualization and analyzing it to solve the problems. I'm an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai.
 
 💼 Skills and Platforms:
 
@@ -25,20 +25,12 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 <a href="https://github.com/Ritesh-zt0"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <a href="https://www.hackerrank.com/kumarritra18extc/"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" alt="HackerRank" width="30" height="30" /> <a href="https://www.linkedin.com/in/ritesh-kumar-16774b200"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" />
 
 * 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on:
-- Product management and Projects/Case Studies.
- 
-## 🌱 I'm currently learning:
-- SQL in detail.
-- R, Tableau, Python
-
+  
 ## 📝 Table of Contents:
-1. Case Studies.
-2. Projects.
-3. Resume.
+1. Projects and Case Studies.
+2. Resume.
+3. Experience.
 4. Certification.
-5. Experience.
 
 #### 1. Case Studies:
  > In this section we will discuss the case studies completed and currently undertaken by me. Acquired data analysis skills with Google Data Analytics Course.
@@ -56,8 +48,7 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 [UEFA CL Winners Kit Manufacturer.]()
 
 
-#### 2. Projects:
- > In this section we will discuss the projects completed and currently undertaken by me.
+#### Projects:
 
 * Portfolio Website: With this project, I tried to make a website for my portfolio which contains all my projects, case studies, experience, and about me. Used github pages to build this website.
 [Portfolio Website.](https://ritesh-zt0.github.io/riteshkumar.github_portfolio.io/)
@@ -79,9 +70,23 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 
 
 #### 3. Resume:
-* [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Resume/Ritesh_Resume_2023.01.pdf)
+* [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Resume/Ritesh's%20_Resume_2024_0.3.pdf)
 
-#### 4. Certifications:
+#### 4. Experience:
+ > In this section I have mentioned all the seminars and events which I have attended.
+
+* Freelancer @ Fiverr: Nov. 2023 - Present
+  Gaining valueable experience as a freelancer. Learning new technologies while expanding my knowledge of data analysis, and, data science.
+* Artificial Engineer Intern @ RadicalX: Sep. 2023 - Nov. 2023
+  Learnt about OpenAI, Vertex AI, Tensorflow and honed my skills in AI development to craft intelligent career guidance.
+* Data Science Intern @ Bharat Intern: May 2023 - Jun. 2023
+  Task of developing a machine learning model to predict stock prices with an accuracy of 75%.
+  Task of making a system which tells if a person will be saved from sinking on the Titanic based on different criteria called Titanic Classification.
+* Junior Data Analyst @ Turingsmind.ai: Nov. 2022 - Mar. 2023
+  Developed a foundation in data science, data analysis, and data visualization. Built a working knowledge of data science methodologies relevant to data and analysis industry.
+* IOT and Raspberry Pi Seminars: Attended multiple seminars on IOT during 2nd year of college, it was conducted by my class coordinator and learnt how we can turn dumb objects into smart using IOT. Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
+
+#### 5. Certifications:
  > This section contains all the certifications done by author.
 
 * Google Data Analytics Certification: Completed this certification from Coursera.
@@ -99,22 +104,5 @@ I love data visualization and analyzing it to solve the problems. I am an engine
 * SQL (Basic) HackerRank Certification: HackerRank certification of SQL.
 [SQL Certification.](https://www.hackerrank.com/certificates/5d33b416e53f)
 
-#### 5. Experience:
- > In this section I have mentioned all the seminars and events which I have attended.
 
-* IOT Seminars: Attended multiple seminars on IOT during 2nd year of college, it was conducted by my class coordinator and we experienced how we dumb objects can be made smart using IOT.
-
-* Raspberry Pi Seminars: Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
-
-* Attended Google Cloud Community Days 2023 in Mumbai: The event held on 29th April helped us (attendees) explore latest innovations, gain insights and knowledge about cloud computing as well as explore the latest trends and innovations in the cloud computing domain.
-
-## 📈 Github Stats:
-> ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-zt0&theme=auto&show_icons=true)
- 
- <a href="https://www.hackerrank.com/kumarritra18extc?hr_r=1">HackerRank Profile</a>
- " --- "
- <a href="https://github.com/Ritesh-zt0">Github Profile</a>
-  " --- "
- <a href="https://leetcode.com/rites_wor">Leetcode Profile</a>
- " --- "
- <a href="https://ritesh-zt0.github.io/riteshkumar.github_portfolio.io/">Portfolio Website</a>
+#### Contact if you've a job opportunity especially if it's Work From Home Opportunity.
