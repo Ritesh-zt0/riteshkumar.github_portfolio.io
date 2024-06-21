@@ -7,19 +7,18 @@ I'm an Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
   Future millionre and Athelete.
 </h3> 
 
-✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please do not hesitate to reach out to me.
+✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please reach out to me.
 Email: theritesh.work@gmail.com
 
 ### Skills and Platforms:
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+Data Analysis: Python, R, Tableau, PowerBI, Sheets, Excel.
+Front-End: JavaScript, React, HTML5, CSS3.
+Databases:  MySQL, MongoDB.
+Tools & Methods: Git, GitHub, Google Workspace.
+Professional: Teamwork, Mentoring, Leadership, Strong
+Written, and verbal communication.
+
   
 ### Table of Contents:
 1. Projects and Case Studies.
