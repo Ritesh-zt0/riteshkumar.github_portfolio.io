@@ -3,12 +3,14 @@ Hi there, I'm <a href="leetcode.com/rites_wor" target="_blank" rel="noreferrer">
 </h2>
 
 <h3 align="center">
-I'm an Aspiring Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
+I'm an Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
+  Future millionre and Athelete.
 </h3> 
 
 ✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please do not hesitate to reach out to me.
+Email: theritesh.work@gmail.com
 
-I love data visualization and analyzing it to solve the problems. I'm an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai.
+I love data and analyzing it to solve the problems. I'm an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai.
 
 💼 Skills and Platforms:
 
@@ -20,18 +22,14 @@ I love data visualization and analyzing it to solve the problems. I'm an enginee
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-🤝 Connect with me:
-
-<a href="https://github.com/Ritesh-zt0"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="30" height="30" /> <a href="https://www.hackerrank.com/kumarritra18extc/"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" alt="HackerRank" width="30" height="30" /> <a href="https://www.linkedin.com/in/ritesh-kumar-16774b200"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" />
   
-## 📝 Table of Contents:
+### 📝 Table of Contents:
 1. Projects and Case Studies.
 2. Resume.
 3. Experience.
 4. Certification.
 
-#### 1. Case Studies:
+### 1. Case Studies:
  > In this section we will discuss the case studies completed and currently undertaken by me. Acquired data analysis skills with Google Data Analytics Course.
 
 * Bellabeat Case Study: This case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
@@ -46,8 +44,7 @@ I love data visualization and analyzing it to solve the problems. I'm an enginee
 * UCL Winners Kit Manufacturer: In this case study, I tried to analyse why there are now only 2 kit manufacturer, i.e, Adidas and Nike, whose sponsored team win UEFA Champions League regularly, whereas 20-25 years ago different local kit manufacturers used to make kits of UCL winning sides.
 [UEFA CL Winners Kit Manufacturer.]()
 
-
-#### Projects:
+### Projects:
 
 * Portfolio Website: With this project, I tried to make a website for my portfolio which contains all my projects, case studies, experience, and about me. Used github pages to build this website.
 [Portfolio Website.](https://ritesh-zt0.github.io/riteshkumar.github_portfolio.io/)
@@ -67,11 +64,10 @@ I love data visualization and analyzing it to solve the problems. I'm an enginee
  
 * Hackathon Medical App: Building a medical app which contained all the common diseases with their basic home remedies PLUS emergency number of nearby doctors. I was given the part of researching about the different diseases, challenges, and understanding how the app will work.
 
-
-#### 3. Resume:
+### 3. Resume:
 * [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Resume/Ritesh's%20_Resume_2024_0.3.pdf)
 
-#### 4. Experience:
+### 4. Experience:
  > In this section I have mentioned all the seminars and events which I have attended.
 
 * Freelancer @ Fiverr: Nov. 2023 - Present
@@ -85,7 +81,7 @@ I love data visualization and analyzing it to solve the problems. I'm an enginee
   Developed a foundation in data science, data analysis, and data visualization. Built a working knowledge of data science methodologies relevant to data and analysis industry.
 * IOT and Raspberry Pi Seminars: Attended multiple seminars on IOT during 2nd year of college, it was conducted by my class coordinator and learnt how we can turn dumb objects into smart using IOT. Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
 
-#### 5. Certifications:
+### 5. Certifications:
  > This section contains all the certifications done by author.
 
 * Google Data Analytics Certification: Completed this certification from Coursera.
@@ -104,4 +100,4 @@ I love data visualization and analyzing it to solve the problems. I'm an enginee
 [SQL Certification.](https://www.hackerrank.com/certificates/5d33b416e53f)
 
 
-#### Contact if you've a job opportunity especially if it's Work From Home Opportunity.
+### Contact if you've a job opportunity especially if it's Work From Home Opportunity.
