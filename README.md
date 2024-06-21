@@ -10,7 +10,7 @@ I'm an Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
 ✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please do not hesitate to reach out to me.
 Email: theritesh.work@gmail.com
 
-💼 Skills and Platforms:
+### Skills and Platforms:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -21,7 +21,7 @@ Email: theritesh.work@gmail.com
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   
-### 📝 Table of Contents:
+### Table of Contents:
 1. Projects and Case Studies.
 2. Resume.
 3. Experience.
@@ -98,4 +98,4 @@ Email: theritesh.work@gmail.com
 [SQL Certification.](https://www.hackerrank.com/certificates/5d33b416e53f)
 
 
-### Contact if you've a job opportunity especially if it's Work From Home Opportunity.
+#### Contact if you've a job opportunity especially if it's Work From Home Opportunity.
