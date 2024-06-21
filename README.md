@@ -20,29 +20,33 @@ Tools & Methods: Git, GitHub, Google Workspace.
 Professional: Teamwork, Mentoring, Leadership, Strong
 Written, and verbal communication.
 
+[Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Resume/Ritesh's%20_Resume_2024_0.3.pdf)
+
   
 ### Table of Contents:
-1. Projects and Case Studies.
-2. Resume.
-3. Experience.
-4. Certification.
+1. Experience.
+2. Projects and Case Studies.
+3. Certification.
 
-### 1. Case Studies:
- > In this section we will discuss the case studies completed and currently undertaken by me. Acquired data analysis skills with Google Data Analytics Course.
+### 1. Experience:
 
-* Bellabeat Case Study: This case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
-[Bellabeat Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac)
- 
-* Stock Prices Prediction using LSTM: This case study/project is used to predict the stock prices using LSTM (long short term memory). LSTM is a variety of recurrent neural networks (RNNs) that are capable of learning long-term dependencies, especially in sequence prediction problems.
-[Stock Prices Prediction using LSTM Link.](https://www.kaggle.com/code/eta43riteshkumar/stock-prices-using-lstm/notebook)
+* Freelancer @ Fiverr: Nov. 2023 - Present
+  
+  Gaining valueable experience as a freelancer. Learning new technologies while expanding my knowledge of data analysis, and, data science.
+* Artificial Engineer Intern @ RadicalX: Sep. 2023 - Nov. 2023
+  
+  Learnt about OpenAI, Vertex AI, Tensorflow and honed my skills in AI development to craft intelligent career guidance.
+* Data Science Intern @ Bharat Intern: May 2023 - Jun. 2023
+  
+  Task of developing a machine learning model to predict stock prices with an accuracy of 75%.
+  Task of making a system which tells if a person will be saved from sinking on the Titanic based on different criteria called Titanic Classification.
+* Junior Data Analyst @ Turingsmind.ai: Nov. 2022 - Mar. 2023
+  
+  Developed a foundation in data science, data analysis, and data visualization. Built a working knowledge of data science methodologies relevant to data and analysis industry.
+* IOT and Raspberry Pi Seminars: Attended multiple seminars on IOT during 2nd year of college, it was conducted by my class coordinator and learnt how we can turn dumb objects into smart using IOT. Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
 
-* Cyclistic Bike-Share Case Study: This case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual members alongside historical bike trip data to identify trends on how casual and annual members use the service alongside their preferred travelling days, duration of their travel, and which type of bikes are used, for growth opportunities of the company as well as how we can convert casual members to annual members.
-[Cyclistic Bike-Share Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/cyclistic-bike-share-case-study-gda)
 
-* UCL Winners Kit Manufacturer: In this case study, I tried to analyse why there are now only 2 kit manufacturer, i.e, Adidas and Nike, whose sponsored team win UEFA Champions League regularly, whereas 20-25 years ago different local kit manufacturers used to make kits of UCL winning sides.
-[UEFA CL Winners Kit Manufacturer.]()
-
-### Projects:
+### 2. Projects:
 
 * Portfolio Website: With this project, I tried to make a website for my portfolio which contains all my projects, case studies, experience, and about me. Used github pages to build this website.
 [Portfolio Website.](https://ritesh-zt0.github.io/riteshkumar.github_portfolio.io/)
@@ -62,29 +66,22 @@ Written, and verbal communication.
  
 * Hackathon Medical App: Building a medical app which contained all the common diseases with their basic home remedies PLUS emergency number of nearby doctors. I was given the part of researching about the different diseases, challenges, and understanding how the app will work.
 
-### 3. Resume:
-* [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Resume/Ritesh's%20_Resume_2024_0.3.pdf)
+### Case Studies:
+ > In this section we will discuss the case studies completed and currently undertaken by me. Acquired data analysis skills with Google Data Analytics Course.
 
-### 4. Experience:
- > In this section I have mentioned all the seminars and events which I have attended.
+* Bellabeat Case Study: This case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
+[Bellabeat Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac)
+ 
+* Stock Prices Prediction using LSTM: This case study/project is used to predict the stock prices using LSTM (long short term memory). LSTM is a variety of recurrent neural networks (RNNs) that are capable of learning long-term dependencies, especially in sequence prediction problems.
+[Stock Prices Prediction using LSTM Link.](https://www.kaggle.com/code/eta43riteshkumar/stock-prices-using-lstm/notebook)
 
-* Freelancer @ Fiverr: Nov. 2023 - Present
-  
-  Gaining valueable experience as a freelancer. Learning new technologies while expanding my knowledge of data analysis, and, data science.
-* Artificial Engineer Intern @ RadicalX: Sep. 2023 - Nov. 2023
-  
-  Learnt about OpenAI, Vertex AI, Tensorflow and honed my skills in AI development to craft intelligent career guidance.
-* Data Science Intern @ Bharat Intern: May 2023 - Jun. 2023
-  
-  Task of developing a machine learning model to predict stock prices with an accuracy of 75%.
-  Task of making a system which tells if a person will be saved from sinking on the Titanic based on different criteria called Titanic Classification.
-* Junior Data Analyst @ Turingsmind.ai: Nov. 2022 - Mar. 2023
-  
-  Developed a foundation in data science, data analysis, and data visualization. Built a working knowledge of data science methodologies relevant to data and analysis industry.
-* IOT and Raspberry Pi Seminars: Attended multiple seminars on IOT during 2nd year of college, it was conducted by my class coordinator and learnt how we can turn dumb objects into smart using IOT. Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
+* Cyclistic Bike-Share Case Study: This case study in progress is regarding Cyclistic Bike-Share focusing on solving the task: Analysing data from annual and casual members alongside historical bike trip data to identify trends on how casual and annual members use the service alongside their preferred travelling days, duration of their travel, and which type of bikes are used, for growth opportunities of the company as well as how we can convert casual members to annual members.
+[Cyclistic Bike-Share Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/cyclistic-bike-share-case-study-gda)
 
-### 5. Certifications:
- > This section contains all the certifications done by author.
+* UCL Winners Kit Manufacturer: In this case study, I tried to analyse why there are now only 2 kit manufacturer, i.e, Adidas and Nike, whose sponsored team win UEFA Champions League regularly, whereas 20-25 years ago different local kit manufacturers used to make kits of UCL winning sides.
+[UEFA CL Winners Kit Manufacturer.]()
+
+### 3. Certifications:
 
 * Google Data Analytics Certification: Completed this certification from Coursera.
 [GDA Certification.](https://www.coursera.org/account/accomplishments/specialization/certificate/E9D5PH3AFTQU)
