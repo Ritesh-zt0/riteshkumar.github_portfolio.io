@@ -5,7 +5,7 @@ Hi there, I'm <a href="leetcode.com/rites_wor" target="_blank" rel="noreferrer">
 <h3 align="center">
 I'm an Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
 
-Future millionare and Athelete.
+Future millionare and Athlete.
 </h3> 
 
 ✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please reach out to me.
@@ -69,13 +69,17 @@ Written, and verbal communication.
  > In this section I have mentioned all the seminars and events which I have attended.
 
 * Freelancer @ Fiverr: Nov. 2023 - Present
+  
   Gaining valueable experience as a freelancer. Learning new technologies while expanding my knowledge of data analysis, and, data science.
 * Artificial Engineer Intern @ RadicalX: Sep. 2023 - Nov. 2023
+  
   Learnt about OpenAI, Vertex AI, Tensorflow and honed my skills in AI development to craft intelligent career guidance.
 * Data Science Intern @ Bharat Intern: May 2023 - Jun. 2023
+  
   Task of developing a machine learning model to predict stock prices with an accuracy of 75%.
   Task of making a system which tells if a person will be saved from sinking on the Titanic based on different criteria called Titanic Classification.
 * Junior Data Analyst @ Turingsmind.ai: Nov. 2022 - Mar. 2023
+  
   Developed a foundation in data science, data analysis, and data visualization. Built a working knowledge of data science methodologies relevant to data and analysis industry.
 * IOT and Raspberry Pi Seminars: Attended multiple seminars on IOT during 2nd year of college, it was conducted by my class coordinator and learnt how we can turn dumb objects into smart using IOT. Attended multiple seminars on Raspberry Pi during 2nd year of college, and built a humidity vs temperature sensor using Raspberry Pi.
 
