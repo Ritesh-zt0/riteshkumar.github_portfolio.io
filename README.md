@@ -11,6 +11,7 @@ Future millionare and Athlete.
 ✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please reach out to me.
 
 Email: theritesh.work@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/ritesh-kumar-16774b200
 
 ### Skills and Platforms:
