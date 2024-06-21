@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, I'm <a href="theritesh.work@gmail.com" target="_blank" rel="noreferrer">Ritesh Kumar</a> 👋
+Hi there, I'm Ritesh Kumar</a> 👋
 </h2>
 
 <h3 align="center">
