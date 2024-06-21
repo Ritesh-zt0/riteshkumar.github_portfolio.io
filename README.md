@@ -13,17 +13,15 @@ Email: theritesh.work@gmail.com
 
 ### Skills and Platforms:
 
-Data Analysis: Python, R, Tableau, PowerBI, Sheets, Excel.
+* Data Analysis: Python, R, Tableau, PowerBI, Sheets, Excel.
 
-Front-End: JavaScript, React, HTML5, CSS3.
+* Front-End: JavaScript, React, HTML5, CSS3.
 
-Databases:  MySQL, MongoDB.
+* Databases:  MySQL, MongoDB.
 
-Tools & Methods: Git, GitHub, Google Workspace.
+* Tools & Methods: Git, GitHub, Google Workspace.
 
-Professional: Teamwork, Mentoring, Leadership, Strong
-
-Written, and verbal communication.
+* Professional: Teamwork, Mentoring, Leadership, Strong Written, and verbal communication.
 
 [Download or preview the resume.](https://github.com/Ritesh-zt0/riteshkumar.github_portfolio.io/blob/main/Resume/Ritesh's%20_Resume_2024_0.3.pdf)
 
