@@ -10,8 +10,6 @@ I'm an Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
 ✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please do not hesitate to reach out to me.
 Email: theritesh.work@gmail.com
 
-I love data and analyzing it to solve the problems. I'm an engineering graduate of Electronics and Telecommunication Engineering from Pillai College of Engineering affiliated with University of Mumbai.
-
 💼 Skills and Platforms:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
