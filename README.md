@@ -4,7 +4,8 @@ Hi there, I'm <a href="leetcode.com/rites_wor" target="_blank" rel="noreferrer">
 
 <h3 align="center">
 I'm an Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
-  Future millionre and Athelete.
+
+Future millionare and Athelete.
 </h3> 
 
 ✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please reach out to me.
