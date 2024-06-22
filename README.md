@@ -5,10 +5,9 @@ Hi there, I'm Ritesh Kumar 👋
 <h3 align="center">
 I'm an Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
 </h3> 
-
-<h3 align="center">
+<h4 align="center">
 Future millionare and Athlete.
-</h3> 
+</h4> 
 
 ✍️ If you have a job opportunity especially if it's a Work From Home Opportunity please reach out to me.
 
