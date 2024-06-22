@@ -4,7 +4,9 @@ Hi there, I'm Ritesh Kumar 👋
 
 <h3 align="center">
 I'm an Data Analyst 💻, Gamer 🎮, and Nemophilist 🌴!
+</h3> 
 
+<h3 align="center">
 Future millionare and Athlete.
 </h3> 
 
