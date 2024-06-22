@@ -72,7 +72,7 @@ LinkedIn: https://www.linkedin.com/in/ritesh-kumar-16774b200
  
 * Hackathon Medical App: Building a medical app which contained all the common diseases with their basic home remedies PLUS emergency number of nearby doctors. I was given the part of researching about the different diseases, challenges, and understanding how the app will work.
 
-### Case Studies:
+ #### Case Studies:
 
 * Bellabeat Case Study: This case study involved the usage of data analytics to complete the task of Analysing data from smart devices can help us understand the ways consumers use our product and to launch products that will help them and help in growth opportunities for the company. Solved using R language in Kaggle notebook.
 [Bellabeat Case Study Link.](https://www.kaggle.com/code/eta43riteshkumar/bellabeat-case-study-2-gdac)
